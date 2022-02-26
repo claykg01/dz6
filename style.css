@@ -1,0 +1,19 @@
+* {
+  background-color: white;
+}
+
+#wrap {
+  width: 300px;
+  margin: 50px auto;
+  height: 100px;
+}
+
+input {
+  background-color: white;
+  width: 300px;
+  height: 30px;
+}
+p {
+  color: black;
+  font-size: 22px;
+}
